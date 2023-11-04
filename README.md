@@ -13,5 +13,5 @@
     <li><strong>assets</strong>: Папка с материалами для оформления данного репозитория.</li>
     <li><strong>tasks</strong>: Текстовые задания первого и второго дня фестиваля.</li>
     <li><strong>content</strong>: Материал к заданиям первого дня фестиваля.</li>
-    <li><strong>solutions</strong>: Решения на языке Python первого и второго дня фестиваля.</li>
+    <li><strong>solutions</strong>: Решения первого и второго дня фестиваля.</li>
 </ul>
