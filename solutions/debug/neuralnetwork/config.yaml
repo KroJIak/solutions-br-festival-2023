@@ -1,0 +1,10 @@
+
+path: /home/andrey/PycharmProjects/BespilotnieResheniya/scripts/neuralnetwork/yolo_train_model/code/data  # dataset root dir
+train: images/train  # train images (relative to 'path')
+val: images/train  # val images (relative to 'path')
+
+# Classes
+names:
+ 0: stop
+ 1: brick
+ 2: nigger

@@ -1,0 +1,7 @@
+numpy==
+opencv-python==
+fastapi==
+uvicorn==
+keras==
+requests==
+serial==

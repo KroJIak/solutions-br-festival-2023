@@ -1,0 +1,3 @@
+0 Health
+1 Parking
+2 crosswalk
