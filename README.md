@@ -1,5 +1,5 @@
 <h1 align="center">
-  Привет, это <a href="tapy.me/krojiak" target="_blank">Андрей</a>! 
+  Привет, это <a href="https://tapy.me/krojiak" target="_blank">Андрей</a>! 
   <img src="assets/krojiak-face.gif" height="26"/>
 </h1>
 <h3 align="center">Backend, DevOPS ну и просто гвоздь</h3>
