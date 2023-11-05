@@ -1,7 +1,7 @@
-numpy==
-opencv-python==
-fastapi==
-uvicorn==
-keras==
-requests==
-serial==
+numpy==1.26.1
+opencv-python==4.8.1.78
+fastapi==0.104.1
+uvicorn==0.23.2
+keras==2.14.0
+requests==2.31.0
+pyserial==3.5
