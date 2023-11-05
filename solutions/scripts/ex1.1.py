@@ -16,7 +16,7 @@ time.sleep(0.05)                # оно не принимается микро�
 try:
     arduino.set_speed(CAR_SPEED)
     while True:
-        for angle in [62, 115]:
+        for angle in [70, 110]:
             arduino.set_angle(angle)
             time.sleep(DELAY)
 except KeyboardInterrupt as err:
