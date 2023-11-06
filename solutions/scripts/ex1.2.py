@@ -1,6 +1,6 @@
-from arduino import Arduino
-import customModule as ctm
-from utils import *
+from module.arduino import Arduino
+import module.custom as ctm
+from module.utils import *
 import time
 import cv2
 
